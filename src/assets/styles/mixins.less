@@ -1,0 +1,33 @@
+//鼠标经过上移阴影动画
+.hoverShadow{
+    transition: all 0.5s;
+    &:hover{
+        transform: translate3d(0,-8px,0);
+        box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+    }
+}
+.hoverda{
+    transition: all 1s ease;
+    overflow: hidden;
+    &:hover{
+        transform: scale(1.02);
+    }
+}
+
+
+.size{
+    width: 100px;
+    height: 100px;
+}
+.box{
+    .size();
+    background-color: red;
+}
+.size2(@w){
+    width: @w;
+    height: @w;
+}
+.box2{
+    .size2(200px);
+    background-color: blueviolet;
+}

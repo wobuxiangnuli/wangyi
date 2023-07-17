@@ -1,0 +1,29 @@
+{
+    "msg":"操作成功",
+    "result":[
+        {
+            "id":"16",
+            "imgUrl":"",
+            "hrefUrl":"/category/1005000",
+            "type":"1"
+        },
+        {
+            "id":"16",
+            "imgUrl":"https://imgcps.jd.com/img-cubic/creative_server_ci…bPmiqLotK0QBkIKCgbotoXlgLwQB1iJ1ofJ9AI/cr/s/q.jpg",
+            "hrefUrl":"/category/1005000",
+            "type":"1"
+        },
+        {
+            "id":"16",
+            "imgUrl":"https://imgcps.jd.com/ling-cubic/ling4/lab/amZzL3Q…2g5YC85b6X5oul5pyJ/1635183804528672769/cr/s/q.jpg",
+            "hrefUrl":"/category/1005000",
+            "type":"1"
+        },
+        {
+            "id":"16",
+            "imgUrl":"https://imgcps.jd.com/ling-cubic/ling4/lab/amZzL3Q…2g5YC85b6X5oul5pyJ/1635183804528672769/cr/s/q.jpg",
+            "hrefUrl":"/category/1005000",
+            "type":"1"
+        }
+    ]
+}
